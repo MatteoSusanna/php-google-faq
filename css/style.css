@@ -8,6 +8,16 @@ body{
     font-family: sans-serif;
 }
 
+h1{
+    margin: 20px 0;
+    color: #3c4043;
+}
+
+p{
+    margin-bottom: 50px;
+    line-height: 1.714;
+}
+
 header{
     height: 100px;
     background-color: white;
